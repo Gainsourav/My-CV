@@ -1,0 +1,21 @@
+header {
+    background-color: #3e4444 ;
+    color: silver;
+    width: 51cm;
+}
+h1 {
+    font-size: 1.5cm;
+}
+body {
+    background-color: #82b74b;
+    width: 51cm;
+}
+hr {
+    height: .15cm;
+}
+h3 {
+    background-color: #405d27;
+    height: 1cm;
+    text-align: initial;
+    font-size: 0.65cm;  
+}
